@@ -19,8 +19,8 @@ FSType: 5
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1201144287
-ModificationTime: 1359711236
+CreationTime: 1359710136
+ModificationTime: 1359714109
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -328,7 +328,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 36 12
+WinInfo: 720 36 12
 BeginPrivate: 0
 EndPrivate
 BeginChars: 66532 1130
@@ -432,7 +432,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: soft hyphen
+StartChar: soft
 Encoding: 173 173 6
 Width: 824
 GlyphClass: 2
@@ -9900,6 +9900,7 @@ SplineSet
 EndSplineSet
 Validated: 33
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 2 subtable" k1xx l3
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx l3
 EndChar
 
 StartChar: k1l3u1
@@ -11903,6 +11904,7 @@ SplineSet
  970 -123 970 -123 708 -106 c 1,67,68
 EndSplineSet
 Validated: 37
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 2 subtable" k3xx l3
 EndChar
 
@@ -21007,6 +21009,7 @@ Fore
 Refer: 1125 -1 N 1 0 0 1 1964 -36 2
 Refer: 41 3364 N 1 0 0 1 0 0 2
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 2 subtable" th1xx l3
 EndChar
 
@@ -23598,7 +23601,7 @@ SplineSet
  2590.06 823.1 2590.06 823.1 2502.06 919.1 c 0,116,117
  2361.18 1070.49 2361.18 1070.49 2182 1075 c 1,17,18
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1th1 u2
 EndChar
@@ -25336,7 +25339,7 @@ SplineSet
  386.829 62.4 386.829 62.4 279 240 c 1,86,87
  175 406.792 175 406.792 175 614 c 0,34,35
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1m1 r1
 EndChar
@@ -25406,7 +25409,7 @@ SplineSet
  871.829 62.4 871.829 62.4 764 240 c 1,83,84
  660 406.792 660 406.792 660 614 c 0,28,29
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 2 0 0 
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 3 subtable" n1m1 r4
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 3 subtable" n1m1 xx r3
@@ -26372,6 +26375,7 @@ Fore
 Refer: 1125 -1 N 1 0 0 1 2088 -36 2
 Refer: 47 3370 N 1 0 0 1 0 0 2
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 2 subtable" p1xx l3
 EndChar
 
@@ -26851,6 +26855,7 @@ Fore
 Refer: 1125 -1 N 1 0 0 1 2464 -28 2
 Refer: 48 3371 N 1 0 0 1 0 0 2
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 2 subtable" p2xx l3
 EndChar
 
@@ -27681,7 +27686,7 @@ Fore
 Refer: 1125 -1 N 1 0 0 1 2765 -30 2
 Refer: 49 3372 N 1 0 0 1 0 0 2
 Validated: 1
-LCarets2: 1 0 
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 2 subtable" p3xx l3
 EndChar
 
@@ -28925,7 +28930,7 @@ Fore
 Refer: 1125 -1 N 0.961853 0 0 1 1564 -12 2
 Refer: 51 3374 N 1 0 0 1 40 0 2
 Validated: 1
-LCarets2: 1 0 
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" m1 xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 2 subtable" m1xx l3
 EndChar
 
@@ -30317,6 +30322,7 @@ Fore
 Refer: 1125 -1 N 1 0 0 1 1768 -20 2
 Refer: 55 3378 N 1 0 0 1 0 0 2
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 2 subtable" l3xx l3
 EndChar
 
@@ -30523,6 +30529,7 @@ Fore
 Refer: 1125 -1 N 1 0 0 1 2128 -20 2
 Refer: 58 3381 N 1 0 0 1 0 0 2
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" v1 xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 2 subtable" v1xx l3
 EndChar
 
@@ -31349,6 +31356,7 @@ Fore
 Refer: 1125 -1 N 1 0 0 1 1988 -20 2
 Refer: 59 3382 N 1 0 0 1 0 0 2
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 2 subtable" z1xx l3
 EndChar
 
@@ -33426,6 +33434,7 @@ Fore
 Refer: 1125 -1 N 1 0 0 1 2260 -4 2
 Refer: 61 3384 N 1 0 0 1 0 0 2
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 2 subtable" s1xx l3
 EndChar
 
@@ -34469,6 +34478,7 @@ Fore
 Refer: 1125 -1 N 1 0 0 1 2200 -8 2
 Refer: 62 3385 N 1 0 0 1 0 0 2
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" h1 xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 2 subtable" h1xx l3
 EndChar
 
